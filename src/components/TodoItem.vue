@@ -30,4 +30,13 @@ export default {
         text-decoration: line-through;
     }
 
+    .del{
+        background: #ff0000;
+        border: none;
+        color: #fff;
+        border-radius: 50%;
+        padding: 5px 9px;
+        cursor: pointer;
+        float: right;
+    }
 </style>
